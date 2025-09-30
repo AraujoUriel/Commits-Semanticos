@@ -1,4 +1,4 @@
 function loginGoogle() {
-//Simula autenticação OAuth2
+  // Simula autenticação OAuth2
 }
 module.exports = loginGoogle
